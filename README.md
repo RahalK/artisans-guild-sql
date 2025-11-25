@@ -25,7 +25,7 @@ Write a SQL query that determines **the single best masterpiece per artisan** ac
 5. If tied → select the highest value  
 6. If still tied → select the oldest creation_year
 
----
+
 
 ## Data
 The challenge uses two tables:
@@ -35,7 +35,7 @@ The challenge uses two tables:
 
 The repository includes scripts to create these tables and populate them with a **sample dataset**.
 
----
+
 
 ## Approach
 The solution requires:
@@ -46,7 +46,7 @@ The solution requires:
 - Ranking masterpieces per artisan using **window functions and ROW_NUMBER**  
 - Selecting the top-ranked masterpiece for each artisan
 
----
+
 
 ## Skills
 This challenge demonstrates:
@@ -56,7 +56,7 @@ This challenge demonstrates:
 - Advanced **filtering and ranking logic**  
 - Query **optimization** and clean data modeling  
 
----
+
 
 ## Technical Tools
 - **SQL Server** (any recent version)  
