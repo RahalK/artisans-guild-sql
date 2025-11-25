@@ -8,12 +8,12 @@
 - [Skills](#skills)  
 - [Technical Tools](#technical-tools)  
 
----
+
 
 ## Overview
 This project is a **SQL Server challenge** designed to showcase complex query writing, data modeling, and problem-solving skills. The task focuses on identifying the best masterpiece for each artisan based on multiple criteria including rarity, technique, value, and creation year.
 
----
+
 
 ## Objective
 Write a SQL query that determines **the single best masterpiece per artisan** according to these rules:
